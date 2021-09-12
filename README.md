@@ -8,15 +8,15 @@
 
 ### Let's connect
 <a href="https://www.linkedin.com/in/sam-hearst-551380147/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/sam-hearst" target="_blank">
-<img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+<a href="https://github.com/sam-hearst/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
-<a href="hhttps://angel.co/u/sam-h-11" target="_blank">
-<img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
+<a href="hhttps://angel.co/u/sam-h-11/" target="_blank">
+  <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
 </a>
 
 ### Languages
