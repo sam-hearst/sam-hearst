@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
-<a href="hhttps://angel.co/u/sam-h-11/" target="_blank">
+<a href="https://angel.co/u/sam-h-11/" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
 </a>
 
