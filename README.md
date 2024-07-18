@@ -1,19 +1,8 @@
-### Hi there 👋
-
-**sam-hearst/sam-hearst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there I'm Sam Hearst  👋
 
 ## About me
+
+I am a data engineer with 2+ years of experience looking for opportunities to grow and learn in the data space.  
 
 ## My Github at a Glance
 <a href="https://github.com/zduvall/zduvall">
@@ -23,8 +12,8 @@ Here are some ideas to get you started:
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zduvall&count_private=true&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 </a>
 
-### Let's connect
-<a href="https://www.linkedin.com/in/sam-hearst-551380147/" target="_blank">
+### Let's connect 📫 
+<a href="https://www.linkedin.com/in/sam-hearst/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -38,8 +27,10 @@ Here are some ideas to get you started:
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Technologies
 
@@ -55,3 +46,16 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+
+<!-- **sam-hearst/sam-hearst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
